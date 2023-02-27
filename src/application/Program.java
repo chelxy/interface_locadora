@@ -10,7 +10,7 @@ import model.services.BrazilTaxService;
 import model.services.RentalService;
 
 public class Program {
-	//Solução sem Interface
+	//Solução Com Interface
 	public static void main(String[] args) {
 		
 		Locale.setDefault(Locale.US);
